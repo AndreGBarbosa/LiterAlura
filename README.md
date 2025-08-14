@@ -73,4 +73,3 @@ Você pode abrir uma *issue* com sugestões ou enviar um *pull request* com melh
 
 ---
 
-Se quiser, posso adicionar seções como 📄 Licença, 🧪 Testes ou 📸 Exemplos de uso. Me avisa que eu complemento!
