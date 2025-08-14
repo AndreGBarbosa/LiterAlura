@@ -1,5 +1,3 @@
-Claro, Andre! Aqui está uma versão aprimorada e mais profissional do seu README, com uma estrutura clara, linguagem mais fluida e visual mais atrativo:
-
 ---
 
 # 📚 LiterAlura
